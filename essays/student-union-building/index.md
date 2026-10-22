@@ -2,7 +2,7 @@
 # Change these five lines as soon as you copy this starter.
 title: Student Union Building
 author: Victor Sanchez-Valdez
-category: Dining                 # change to a category from the student guide
+category: Student Resource                # change to a category from the student guide
 header-image: SUB.jpg   # the filename of your own image
 header-caption: Replace with where your header image came from. Plain text only, no links.
 
