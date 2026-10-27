@@ -15,10 +15,6 @@ layout: essay
 ---
 The Student Union Building (SUB) at the University of New Mexico (UNM) has been an important part of student life for decades. Located on UNM’s main campus in Albuquerque, New Mexico, the SUB serves as a place where students can eat, study, socialize, and participate in campus activities. However, the building has also witnessed major historical events, including student protests, renovations, and changes in university culture. Its history reflects the growth of UNM and the changing needs of its students.
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
-
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
-
 ## Main Story
 
 The history of the SUB began before the current building existed. In 1936, construction began on UNM's original Student Union Building, designed by architect John Gaw Meem in the Pueblo Revival style. The building opened in 1937 and included a ballroom where students could attend dances and social gatherings. Today, that original building houses the Department of Anthropology and the Maxwell Museum of Anthropology. Following World War II, UNM experienced significant enrollment growth, creating a need for a larger student center. 
@@ -38,10 +34,6 @@ Another major transformation began in October 2000. UNM recognized that the SUB 
 
 
 The SUB continued to evolve in the following decades. In 2019, Cheryl Wallace became its director after serving as operations manager since 2009. Her work included improvements to technology, accessibility, and building maintenance. In August 2023, UNM celebrated the twentieth anniversary of the SUB's major renovation with three days of activities, including music, games, giveaways, and fundraising for student scholarships.
-
-Use this section to tell the most important part of the history. Keep paragraphs short enough for online reading. A good paragraph usually develops one idea, source, moment, or change over time.
-
-Use specific evidence from the archive. Name dates, people, places, decisions, conflicts, renovations, controversies, or missing records when they matter. The goal is not just to list facts. The goal is to explain what those facts reveal about UNM and its history.
 
 Today, the Student Union Building remains one of the busiest locations at UNM, welcoming more than 10,000 visitors daily, according to the university. From its beginnings as a student gathering space to its involvement in historic protests and campus development, the SUB represents more than just a building. It reflects the history, culture, and experiences of generations of UNM students.
 
