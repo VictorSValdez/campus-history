@@ -1,16 +1,14 @@
 ---
-# Change these five lines as soon as you copy this starter.
 title: Student Union Building
 author: Victor Sanchez-Valdez
-category: Student Resource                # change to a category from the student guide
-header-image: UNM SUB (old).jpg  # the filename of your own image
+category: Student Resource                
+header-image: UNM SUB (old).jpg  
 header-caption: New Mexico's Digital Collection
 
 # Fill these in later, once your research is under way.
 card-description: From used and old to new and larger. The student union rises after years of a cramped building due to the increase of students. 
-start:                                   # the year your story begins, shown on the map
+start: 1959                                   
 
-# Leave this line as it is.
 layout: essay
 ---
 The Student Union Building (SUB) at the University of New Mexico (UNM) has been an important part of student life for decades. Located on UNM’s main campus in Albuquerque, New Mexico, the SUB serves as a place where students can eat, study, socialize, and participate in campus activities. However, the building has also witnessed major historical events, including student protests, renovations, and changes in university culture. Its history reflects the growth of UNM and the changing needs of its students.
@@ -55,6 +53,8 @@ Every image needs a caption, including this one. A caption should explain what t
 Use this section to explain change over time. What did your topic used to be? How did people use it, describe it, fund it, argue about it, rename it, neglect it, preserve it, or forget it?
 
 This is a good place to connect your specific topic to a larger campus pattern: enrollment growth, architecture, student life, race, gender, labor, protest, public memory, administration, technology, or access.
+
+
 
 <!-- Carousel: use when you have three or more images that belong together but do not
      each need their own paragraph. Images are split on commas, captions on the | character.
