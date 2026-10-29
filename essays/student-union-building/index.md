@@ -7,7 +7,7 @@ header-image: UNM SUB (old).jpg  # the filename of your own image
 header-caption: Replace with where your header image came from. Plain text only, no links.
 
 # Fill these in later, once your research is under way.
-card-description:Replace this with two sentences that summarize the story your essay tells and why it matters.
+card-description: From used and old to new and larger. The student union rises after years of a cramped building due to the increase of students. 
 start:                                   # the year your story begins, shown on the map
 
 # Leave this line as it is.
