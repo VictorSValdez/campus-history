@@ -4,7 +4,7 @@ title: Student Union Building
 author: Victor Sanchez-Valdez
 category: Student Resource                # change to a category from the student guide
 header-image: UNM SUB (old).jpg  # the filename of your own image
-header-caption: Replace with where your header image came from. Plain text only, no links.
+header-caption: New Mexico's Digital Collection
 
 # Fill these in later, once your research is under way.
 card-description: From used and old to new and larger. The student union rises after years of a cramped building due to the increase of students. 
