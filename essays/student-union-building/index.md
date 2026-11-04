@@ -39,7 +39,7 @@ Today, the Student Union Building remains one of the busiest locations at UNM, w
      image-path is just the filename: upload your images into this essay's folder,
      next to index.md. -->
 
-{% include images/
+{% include images/figure.html
   class="img-center"
   width="100%"
   caption="This image creates an image in the mind of how the design and local architecture took major toll on the building as it was being built to be apart of the natural and existing native architecture. Including the plaster and how windows are placed to let light into the building,[Center for Southwest Research](https://econtent.unm.edu/), Building 60 and box number 6."
