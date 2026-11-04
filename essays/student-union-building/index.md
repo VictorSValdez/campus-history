@@ -50,42 +50,14 @@ Every image needs a caption, including this one. A caption should explain what t
 
 ## What Changed
 
-Use this section to explain change over time. What did your topic used to be? How did people use it, describe it, fund it, argue about it, rename it, neglect it, preserve it, or forget it?
+Use this section to explain change over time. What did your topic used to be? How did people use it, describe it, fund it, argue about it, rename it, neglect it, preserve it, or forget it? The SUB we know of now was originally an open field with a lot of open space for parking and recreation use. It has changed from being a dirt parking lot to a larger building that houses many peoplew for lunch and gatherings in the ballrooms. It feed the people and now everyone forgets about what was there before. It was a large field kind of like Johnson field. The students of UNM had outgrown the old building which is now the anthropology building so they built the new SUB to admire the surrounding landscape and architecture that New Mexico had to offer. Student life was also increasingly getting better with the amount of options the new SUB would offer compared to the outgrown one. 
 
 This is a good place to connect your specific topic to a larger campus pattern: enrollment growth, architecture, student life, race, gender, labor, protest, public memory, administration, technology, or access.
 
 
 
-<!-- Carousel: use when you have three or more images that belong together but do not
-     each need their own paragraph. Images are split on commas, captions on the | character.
-     Carousel captions are plain text: Markdown links will NOT work here, so write out
-     the collection name and box number instead of linking. -->
 
-{% assign images =
-"sample-archive-photo.jpg,
-sample-second-photo.jpg,
-sample-primary-source.jpg" | split: ','
-%}
 
-{% assign headers =
-"Replace with a short slide title,
-Replace with a short slide title,
-Replace with a short slide title" | split: ','
-%}
-
-{% assign captions =
-"Replace this caption. Explain what this slide shows and why it matters. Center for Southwest Research, collection name, box number.|
-Replace this caption. Every slide needs one. Center for Southwest Research, collection name, box number.|
-Replace this caption. Plain text only in carousels, so spell out the source instead of linking. Center for Southwest Research, collection name, box number." | split: '|'
-%}
-
-{% include images/carousel.html
-  images=images
-  headers=headers
-  captions=captions
-%}
-
-Delete the carousel if you do not have a set of images that works this way. Three related photographs, a series of floor plans, or a run of newspaper clippings are all good candidates. Two images that need to be compared directly are usually better as a pair than as a carousel.
 
 ## Evidence
 
