@@ -50,14 +50,7 @@ Every image needs a caption, including this one. A caption should explain what t
 
 ## What Changed
 
-Use this section to explain change over time. What did your topic used to be? How did people use it, describe it, fund it, argue about it, rename it, neglect it, preserve it, or forget it? The SUB we know of now was originally an open field with a lot of open space for parking and recreation use. It has changed from being a dirt parking lot to a larger building that houses many peoplew for lunch and gatherings in the ballrooms. It feed the people and now everyone forgets about what was there before. It was a large field kind of like Johnson field. The students of UNM had outgrown the old building which is now the anthropology building so they built the new SUB to admire the surrounding landscape and architecture that New Mexico had to offer. Student life was also increasingly getting better with the amount of options the new SUB would offer compared to the outgrown one. 
-
-This is a good place to connect your specific topic to a larger campus pattern: enrollment growth, architecture, student life, race, gender, labor, protest, public memory, administration, technology, or access.
-
-
-
-
-
+The SUB we know of now was originally an open field with a lot of open space for parking and recreation use. It has changed from being a dirt parking lot to a larger building that houses many peoplew for lunch and gatherings in the ballrooms. It feed the people and now everyone forgets about what was there before. It was a large field kind of like Johnson field. The students of UNM had outgrown the old building which is now the anthropology building so they built the new SUB to admire the surrounding landscape and architecture that New Mexico had to offer. Student life was also increasingly getting better with the amount of options the new SUB would offer compared to the outgrown one. 
 
 ## Evidence
 
