@@ -39,11 +39,11 @@ Today, the Student Union Building remains one of the busiest locations at UNM, w
      image-path is just the filename: upload your images into this essay's folder,
      next to index.md. -->
 
-{% include images/SUB FLOORPLAN.jpg
+{% include images/
   class="img-center"
   width="100%"
-  caption="Replace this caption. Say why the image matters, not just what it shows, then cite where you found it: [Center for Southwest Research](https://econtent.unm.edu/), collection and box number."
-  image-path="sample-archive-photo.jpg"
+  caption="This image creates an image in the mind of how the design and local architecture took major toll on the building as it was being built to be apart of the natural and existing native architecture. Including the plaster and how windows are placed to let light into the building,[Center for Southwest Research](https://econtent.unm.edu/), Building 60 and box number 6."
+  image-path="SUB FLOORPLAN.jpg"
 %}
 
 Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
