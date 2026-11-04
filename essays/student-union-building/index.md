@@ -39,7 +39,7 @@ Today, the Student Union Building remains one of the busiest locations at UNM, w
      image-path is just the filename: upload your images into this essay's folder,
      next to index.md. -->
 
-{% include images/figure.html
+{% include images/SUB FLOORPLAN.jpg
   class="img-center"
   width="100%"
   caption="Replace this caption. Say why the image matters, not just what it shows, then cite where you found it: [Center for Southwest Research](https://econtent.unm.edu/), collection and box number."
