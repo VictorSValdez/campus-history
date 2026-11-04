@@ -63,8 +63,8 @@ Use this section to show readers a document, not just a photograph. Scanned lett
 {% include images/figure.html
   class="img-center"
   width="55%"
-  caption="Replace this caption. Tell readers what to notice in the document and why it changes how they should understand your topic. Cite the collection, box, and folder."
-  image-path="sample-primary-source.jpg"
+  caption="The architecture of the landscape was taken into account when being constructed and it really shows the age of the SUB and how it correlates modern building with the land that was there before it."
+  image-path="SUB BLUEPRINT.jpg"
 %}
 
 Explain what the document says, what it does not say, and how it fits the story. A source you actually read and explain is worth more than three you only mention.
