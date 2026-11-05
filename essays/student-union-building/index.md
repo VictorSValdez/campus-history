@@ -46,8 +46,6 @@ Today, the Student Union Building remains one of the busiest locations at UNM, w
   image-path="SUB FLOORPLAN.jpg"
 %}
 
-Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
-
 ## What Changed
 
 The SUB we know of now was originally an open field with a lot of open space for parking and recreation use. It has changed from being a dirt parking lot to a larger building that houses many peoplew for lunch and gatherings in the ballrooms. It feed the people and now everyone forgets about what was there before. It was a large field kind of like Johnson field. The students of UNM had outgrown the old building which is now the anthropology building so they built the new SUB to admire the surrounding landscape and architecture that New Mexico had to offer. Student life was also increasingly getting better with the amount of options the new SUB would offer compared to the outgrown one. 
@@ -63,7 +61,7 @@ Use this section to show readers a document, not just a photograph. Scanned lett
 {% include images/figure.html
   class="img-center"
   width="55%"
-  caption="The architecture of the landscape was taken into account when being constructed and it really shows the age of the SUB and how it correlates modern building with the land that was there before it."
+  caption="The architecture of the landscape was taken into account when being constructed and it really shows the age of the SUB and how it correlates modern building with the land that was there before it. (Oversized Box 6)"
   image-path="SUB BLUEPRINT.jpg"
 %}
 
