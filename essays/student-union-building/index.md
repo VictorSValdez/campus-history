@@ -71,7 +71,7 @@ Explain what the document says, what it does not say, and how it fits the story.
 
 ## Why This History Matters
 
-End by returning to the present. How should readers see this campus place, person, organization, object, or event differently after reading your essay? Point to continued use, memory, loss, gaps in the archive, or campus change rather than announcing a conclusion.
+This building has had a large impact on the people who use the Student Union Building as well as connecting the featured landscape from the area as well. Doing this helps to connect the students of the university with the history of all of New Mexico and not just having a regular boring University. 
 
 {% capture bibliography %}
 - Replace this with your first source. Include enough detail that someone else could find it: collection name, box, and folder for archival material.
