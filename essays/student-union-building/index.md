@@ -69,9 +69,9 @@ This explains how windows and plaster are being placed in ways to compliment the
 This building has had a large impact on the people who use the Student Union Building as well as connecting the featured landscape from the area as well. Doing this helps to connect the students of the university with the history of all of New Mexico and not just having a regular boring University. 
 
 {% capture bibliography %}
-- Replace this with your first source. Include enough detail that someone else could find it: collection name, box, and folder for archival material.
-- Replace this with your second source.
-- Replace this with your third source.
+- Architectual Student Union Building drawungs 1890-2015 Box 6, Building 60
+- Architectual drawings Student Union Building 1962-2005 Box 7, Building 60
+- 1.SUB – Student Union Building | UNM Campus Histories — 1959 construction, bowling alley, 1976–1977 changes, and 2003 renovation.
 {% endcapture %}
 
 {% include typography/bibliography.html
